@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss","webpack://src/components/PeopleList/PeopleList.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CCDf,wBACE,iBAAkB,CAClB,YAAa,CACb,UAAW","file":"main.9d7b4d99.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n",".no-suggestions-message {\n  text-align: center;\n  padding: 10px;\n  color: #555;\n}\n"]}
